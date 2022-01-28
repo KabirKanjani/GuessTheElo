@@ -1,0 +1,1 @@
+web sh setup.sh && streamlit run GuessElo.py --server.enableCORS=false
